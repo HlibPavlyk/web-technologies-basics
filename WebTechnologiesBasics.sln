@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatApp", "ChatApp\ChatApp.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab2", "Lab2\Lab2.csproj", "{D665EE79-150E-4CC0-8815-8707B97CF1AF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab6", "Lab6\Lab6.csproj", "{27656DDC-B0C8-4517-9666-7D9DCF03C992}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{D665EE79-150E-4CC0-8815-8707B97CF1AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D665EE79-150E-4CC0-8815-8707B97CF1AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D665EE79-150E-4CC0-8815-8707B97CF1AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27656DDC-B0C8-4517-9666-7D9DCF03C992}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27656DDC-B0C8-4517-9666-7D9DCF03C992}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27656DDC-B0C8-4517-9666-7D9DCF03C992}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27656DDC-B0C8-4517-9666-7D9DCF03C992}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
